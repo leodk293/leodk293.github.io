@@ -1,0 +1,43 @@
+body{
+    background-color:#12181E ;
+    display:flex;
+    justify-content: center;
+
+}
+.ens{
+    display: flex;
+    flex-direction: row;
+}
+
+.container{
+    padding: 25px;
+    border: 1px #221635 solid;
+    background-color: #221635;
+    width: 500px;
+    height: 317px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.size{
+    font-size: 23px;
+    font-weight: 500;
+    color: white;
+}
+.color{
+    color: purple;
+}
+.same{
+    color: #CDC5C5;
+}
+img:hover{
+    opacity: 0.9;
+}
+.small{
+    font-size: 7px;
+}
